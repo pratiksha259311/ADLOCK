@@ -120,3 +120,4 @@ if (badge_verified && maturity_score >= 75) {
 
 
 if(age >= 18) badge_verified = true
+⚠️ Demo only: Containers not fully functional.
